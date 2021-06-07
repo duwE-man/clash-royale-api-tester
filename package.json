@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/duwE-man/clash-royale-api-tester/issues"
   },
-  "homepage": "https://github.com/duwE-man/clash-royale-api-tester#readme"
+  "homepage": "https://github.com/duwE-man/clash-royale-api-tester#readme",
+  "dependencies": {
+    "jest": "^27.0.4"
+  }
 }
